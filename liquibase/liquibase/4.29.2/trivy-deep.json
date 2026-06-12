@@ -3,8 +3,8 @@
   "Trivy": {
     "Version": "0.69.3"
   },
-  "ReportID": "019eb709-5467-707a-ba27-0203212ba2a8",
-  "CreatedAt": "2026-06-11T14:15:02.503032731Z",
+  "ReportID": "019ebc15-70cd-78de-9309-b2560da441bc",
+  "CreatedAt": "2026-06-12T13:46:22.285582754Z",
   "ArtifactName": "/tmp/extracted-deps",
   "ArtifactType": "filesystem",
   "Results": [
@@ -541,6 +541,7 @@
             "alma": 3,
             "bitnami": 3,
             "ghsa": 3,
+            "oracle-oval": 3,
             "redhat": 3,
             "rocky": 3
           },
@@ -569,6 +570,8 @@
             "https://github.com/pgjdbc/pgjdbc",
             "https://github.com/pgjdbc/pgjdbc/releases/tag/REL42.7.11",
             "https://github.com/pgjdbc/pgjdbc/security/advisories/GHSA-98qh-xjc8-98pq",
+            "https://linux.oracle.com/cve/CVE-2026-42198.html",
+            "https://linux.oracle.com/errata/ELSA-2026-25030.html",
             "https://nvd.nist.gov/vuln/detail/CVE-2026-42198",
             "https://www.cve.org/CVERecord?id=CVE-2026-42198"
           ],
