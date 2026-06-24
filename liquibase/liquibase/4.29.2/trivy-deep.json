@@ -3,8 +3,8 @@
   "Trivy": {
     "Version": "0.69.3"
   },
-  "ReportID": "019ef4c9-99ef-7c71-8de1-91b4dd7af1d5",
-  "CreatedAt": "2026-06-23T14:01:53.391816614Z",
+  "ReportID": "019ef9d2-76fe-781c-ad13-affd3b070da4",
+  "CreatedAt": "2026-06-24T13:29:40.350533226Z",
   "ArtifactName": "/tmp/extracted-deps",
   "ArtifactType": "filesystem",
   "Results": [
@@ -402,7 +402,7 @@
             "https://nvd.nist.gov/vuln/detail/CVE-2025-59250"
           ],
           "PublishedDate": "2025-10-14T17:16:07.24Z",
-          "LastModifiedDate": "2025-10-30T16:35:42.213Z"
+          "LastModifiedDate": "2026-06-17T09:45:48.78Z"
         },
         {
           "VulnerabilityID": "CVE-2025-59250",
@@ -461,7 +461,7 @@
             "https://nvd.nist.gov/vuln/detail/CVE-2025-59250"
           ],
           "PublishedDate": "2025-10-14T17:16:07.24Z",
-          "LastModifiedDate": "2025-10-30T16:35:42.213Z"
+          "LastModifiedDate": "2026-06-17T09:45:48.78Z"
         },
         {
           "VulnerabilityID": "CVE-2025-24789",
@@ -507,7 +507,7 @@
             "https://nvd.nist.gov/vuln/detail/CVE-2025-24789"
           ],
           "PublishedDate": "2025-01-29T18:15:47.03Z",
-          "LastModifiedDate": "2025-08-20T18:18:54.14Z"
+          "LastModifiedDate": "2026-06-17T08:59:36.757Z"
         },
         {
           "VulnerabilityID": "CVE-2026-42198",
@@ -576,7 +576,7 @@
             "https://www.cve.org/CVERecord?id=CVE-2026-42198"
           ],
           "PublishedDate": "2026-04-29T16:16:25.427Z",
-          "LastModifiedDate": "2026-05-01T12:51:20.853Z"
+          "LastModifiedDate": "2026-06-17T10:47:30.097Z"
         }
       ]
     }
