@@ -3,8 +3,8 @@
   "Trivy": {
     "Version": "0.69.3"
   },
-  "ReportID": "01a08ba2-b369-7e65-8e87-8bcd1e41a3c4",
-  "CreatedAt": "2026-09-10T14:04:50.921945143Z",
+  "ReportID": "01a090c8-0e59-766f-9ac6-c9731d30a853",
+  "CreatedAt": "2026-09-11T14:03:45.11342321Z",
   "ArtifactName": "/tmp/extracted-deps",
   "ArtifactType": "filesystem",
   "Results": [
@@ -528,15 +528,15 @@
             "CWE-287"
           ],
           "VendorSeverity": {
-            "bitnami": 2,
+            "bitnami": 3,
             "ghsa": 3,
             "nvd": 2,
             "redhat": 3
           },
           "CVSS": {
             "bitnami": {
-              "V3Vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:N/A:N",
-              "V3Score": 5.9
+              "V3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:N",
+              "V3Score": 8.2
             },
             "ghsa": {
               "V3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:N",
