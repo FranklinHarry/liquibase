@@ -3,8 +3,8 @@
   "Trivy": {
     "Version": "0.69.3"
   },
-  "ReportID": "01a19dd8-0758-741a-a566-e460208c7c4a",
-  "CreatedAt": "2026-11-02T19:59:03.000270132Z",
+  "ReportID": "01a1a277-9bb7-75e6-8c49-27f95e7eec70",
+  "CreatedAt": "2026-11-03T17:31:50.071388302Z",
   "ArtifactID": "sha256:eee00ff13b531abfe3eb37878300e53f25cd5cde8294f7a35557f0595a084472",
   "ArtifactName": "liquibase/liquibase:5.0.1",
   "ArtifactType": "container_image",
@@ -17006,7 +17006,7 @@
             "alma": 3,
             "amazon": 3,
             "bitnami": 3,
-            "oracle-oval": 4,
+            "oracle-oval": 3,
             "redhat": 3,
             "rocky": 4
           },
@@ -17044,7 +17044,7 @@
             "https://go.dev/issue/81855",
             "https://groups.google.com/g/golang-announce/c/U2fTuyDJznI",
             "https://linux.oracle.com/cve/CVE-2026-97031.html",
-            "https://linux.oracle.com/errata/ELSA-2026-89744.html",
+            "https://linux.oracle.com/errata/ELSA-2026-89751.html",
             "https://nvd.nist.gov/vuln/detail/CVE-2026-97031",
             "https://pkg.go.dev/vuln/GO-2026-6607",
             "https://www.cve.org/CVERecord?id=CVE-2026-97031"
